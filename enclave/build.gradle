@@ -12,8 +12,8 @@ conclave {
     maxHeapSize = "256m"
     maxStackSize = "2m"
     inMemoryFileSystemSize = "0"
-    persistentFileSystemSize = "64m"
-    enablePersistentMap = false
+    persistentFileSystemSize = "16m"
+    enablePersistentMap = true
     maxPersistentMapSize = "16m"
     maxThreads = 10
 
